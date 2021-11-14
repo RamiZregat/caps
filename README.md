@@ -13,7 +13,8 @@ In this lab we’ll build out a system that emulates a real world supply chain. 
 
 
 
-- Github pull request link: https://github.com/RamiZregat/caps/pull/1
+- Github pull request link: https://github.com/RamiZregat/caps/pull/2
+- Github actions link: https://github.com/RamiZregat/caps/actions
 
 ## Dependencies:  
 
